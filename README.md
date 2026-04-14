@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>"I don't stop at analysis. I build systems that act on it."</i>
+  <i>"Most people look at data. I build things with it."</i>
 </p>
 
 <br>
@@ -29,35 +29,6 @@ akash = {
 <br>
 
 I'm a CS graduate who builds at the intersection of **data, finance, and automation**. My projects don't stop at Jupyter notebooks — they run 24/7 on VPS servers, serve live predictions through web apps, and fire real-time alerts to Telegram. I gravitate toward problems where data has real stakes and results can be measured in percentages, dollars, or milliseconds.
-
-<br>
-
-## By The Numbers
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="170">
-<h3>3,031</h3>
-<sub>insider trades<br>analysed</sub>
-</td>
-<td align="center" width="170">
-<h3>R² 0.65</h3>
-<sub>UK housing<br>ML model</sub>
-</td>
-<td align="center" width="170">
-<h3>25 yrs</h3>
-<sub>of market data<br>covered</sub>
-</td>
-<td align="center" width="170">
-<h3>24 / 7</h3>
-<sub>autonomous<br>production uptime</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
@@ -108,10 +79,11 @@ I'm a CS graduate who builds at the intersection of **data, finance, and automat
 ### Polymarket Copy Trading Bot
 `Python` `Flask` `SQLite` `Telegram API` `Ubuntu VPS` `REST APIs`
 
+<img src="polymarket-dashboard.png" alt="Polymarket Bot Dashboard — live P&L, win rate, portfolio balance, and wallet allocation" width="100%">
+
 An autonomous trading system that identifies and mirrors high-performing arbitrage traders on Polymarket, a real-money prediction market. It runs 24/7 on a Ubuntu VPS with a five-point risk engine on every position, fires real-time Telegram alerts on open and close, and exposes a live Flask dashboard for wallet and performance analytics.
 
-![Status](https://img.shields.io/badge/Status-Live_in_Production-2EA043?style=flat-square)
-![Deployment](https://img.shields.io/badge/Deployed_on-Ubuntu_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](http://178.104.43.33:8080)
 
 </td>
 <td width="50%" valign="top">
