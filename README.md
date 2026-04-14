@@ -79,8 +79,6 @@ I'm a CS graduate who builds at the intersection of **data, finance, and automat
 ### Polymarket Copy Trading Bot
 `Python` `Flask` `SQLite` `Telegram API` `Ubuntu VPS` `REST APIs`
 
-<img src="polymarket-dashboard.png" alt="Polymarket Bot Dashboard — live P&L, win rate, portfolio balance, and wallet allocation" width="100%">
-
 An autonomous trading system that identifies and mirrors high-performing arbitrage traders on Polymarket, a real-money prediction market. It runs 24/7 on a Ubuntu VPS with a five-point risk engine on every position, fires real-time Telegram alerts on open and close, and exposes a live Flask dashboard for wallet and performance analytics.
 
 [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](http://178.104.43.33:8080)
