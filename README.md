@@ -8,10 +8,9 @@
   </a>
 </p>
 
-<div align="center">
-
-
-</div>
+<p align="center">
+  <i>"I don't stop at analysis. I build systems that act on it."</i>
+</p>
 
 <br>
 
@@ -29,7 +28,36 @@ akash = {
 
 <br>
 
-I'm a CS graduate who works at the intersection of **data science, financial markets, and automation engineering**. My projects don't live in Jupyter notebooks — they run 24/7 on VPS servers, serve live predictions via web apps, and fire real-time alerts. I'm drawn to problems where data has real stakes.
+I'm a CS graduate who builds at the intersection of **data, finance, and automation**. My projects don't stop at Jupyter notebooks — they run 24/7 on VPS servers, serve live predictions through web apps, and fire real-time alerts to Telegram. I gravitate toward problems where data has real stakes and results can be measured in percentages, dollars, or milliseconds.
+
+<br>
+
+## By The Numbers
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="170">
+<h3>3,031</h3>
+<sub>insider trades<br>analysed</sub>
+</td>
+<td align="center" width="170">
+<h3>R² 0.65</h3>
+<sub>UK housing<br>ML model</sub>
+</td>
+<td align="center" width="170">
+<h3>25 yrs</h3>
+<sub>of market data<br>covered</sub>
+</td>
+<td align="center" width="170">
+<h3>24 / 7</h3>
+<sub>autonomous<br>production uptime</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
@@ -82,6 +110,9 @@ I'm a CS graduate who works at the intersection of **data science, financial mar
 
 An autonomous trading system that identifies and mirrors high-performing arbitrage traders on Polymarket, a real-money prediction market. It runs 24/7 on a Ubuntu VPS with a five-point risk engine on every position, fires real-time Telegram alerts on open and close, and exposes a live Flask dashboard for wallet and performance analytics.
 
+![Status](https://img.shields.io/badge/Status-Live_in_Production-2EA043?style=flat-square)
+![Deployment](https://img.shields.io/badge/Deployed_on-Ubuntu_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 </td>
 <td width="50%" valign="top">
 
@@ -90,7 +121,9 @@ An autonomous trading system that identifies and mirrors high-performing arbitra
 
 Analysed **3,031 trades** by CEOs and CFOs across 50 US companies from 2023 to 2026, benchmarked against the S&P 500 to control for broader market conditions. The standout finding: the highest 90-day returns in the dataset followed insider *sells*, not buys.
 
-[Tableau Dashboard](https://lnkd.in/e7UF6aex) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sec-insider-tracker) &nbsp;&nbsp; [Live Tracker](https://lnkd.in/eDyFzEju)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau_Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://lnkd.in/e7UF6aex)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash21ch/sec-insider-tracker)
+[![Live Tracker](https://img.shields.io/badge/Live_Tracker-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://lnkd.in/eDyFzEju)
 
 </td>
 </tr>
@@ -102,7 +135,8 @@ Analysed **3,031 trades** by CEOs and CFOs across 50 US companies from 2023 to 2
 
 End-to-end ML project predicting residential property prices across England and Wales using real HM Land Registry transaction data. Random Forest model achieving **R² of 64.6%**, deployed as a publicly accessible live web application.
 
-[Live App](https://uk-house-price-predictor.streamlit.app) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/uk-house-price-predictor)
+[![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://uk-house-price-predictor.streamlit.app)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash21ch/uk-house-price-predictor)
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +146,8 @@ End-to-end ML project predicting residential property prices across England and 
 
 25 years of performance data across all 11 S&P 500 sectors, from the dot-com crash through to 2026. Built an interactive Tableau dashboard for exploration by year and sector, revealing how macro cycles reshaped sector leadership over time.
 
-[Tableau Dashboard](https://lnkd.in/e-YGGr2w) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sp500-sector-performance-analysis)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau_Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://lnkd.in/e-YGGr2w)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash21ch/sp500-sector-performance-analysis)
 
 </td>
 </tr>
