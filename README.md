@@ -17,25 +17,27 @@
 
 </div>
 
----
+<br>
 
-## 🧠 About Me
+## About Me
 
 ```python
 akash = {
     "education"  : "BSc Computer Science — Kingston University, London",
     "focus"      : ["Data Analytics", "Machine Learning", "Finance", "Automation"],
     "languages"  : ["Python", "SQL", "Bash"],
-    "currently"  : "Building autonomous trading systems & analysing insider trading patterns",
+    "currently"  : "Autonomous trading systems & executive insider trading research",
     "philosophy" : "Don't just analyse data — build systems that act on it.",
 }
 ```
 
-I'm a CS graduate who works at the intersection of **data science, financial markets, and automation engineering**. My projects don't live in Jupyter notebooks — they run 24/7 on VPS servers, serve live predictions via web apps, and send real-time alerts. I'm drawn to problems where data has real stakes.
+<br>
 
----
+I'm a CS graduate who works at the intersection of **data science, financial markets, and automation engineering**. My projects don't live in Jupyter notebooks — they run 24/7 on VPS servers, serve live predictions via web apps, and fire real-time alerts. I'm drawn to problems where data has real stakes.
 
-## 🛠️ Tech Stack
+<br>
+
+## Tech Stack
 
 <div align="center">
 
@@ -71,101 +73,71 @@ I'm a CS graduate who works at the intersection of **data science, financial mar
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Polymarket Copy Trading Bot
-**Python · Flask · SQLite · Telegram API · Ubuntu VPS · REST APIs**
+### Polymarket Copy Trading Bot
+`Python` `Flask` `SQLite` `Telegram API` `Ubuntu VPS` `REST APIs`
 
-An autonomous trading system that identifies and mirrors high-performing arbitrage traders on Polymarket — a real-money prediction market. Built to run without human intervention.
-
-**Highlights:**
-- 24/7 autonomous operation on a Ubuntu VPS
-- Five-point risk engine evaluated before every trade
-- Real-time Telegram alerts on position open/close
-- Live Flask dashboard for wallet & performance analytics
-- Full REST API integration with the Polymarket order book
+An autonomous trading system that identifies and mirrors high-performing arbitrage traders on Polymarket, a real-money prediction market. It runs 24/7 on a Ubuntu VPS with a five-point risk engine on every position, fires real-time Telegram alerts on open and close, and exposes a live Flask dashboard for wallet and performance analytics.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 US Executive Insider Trading Analysis
-**Python · Pandas · SEC EDGAR API · yfinance · Tableau**
+### US Executive Insider Trading Analysis
+`Python` `Pandas` `SEC EDGAR API` `yfinance` `Tableau`
 
-Analysed **3,031 trades** by CEOs and CFOs across 50 US companies from 2023 to 2026. All results benchmarked against the S&P 500 to strip out broader market noise.
+Analysed **3,031 trades** by CEOs and CFOs across 50 US companies from 2023 to 2026, benchmarked against the S&P 500 to control for broader market conditions. The standout finding: the highest 90-day returns in the dataset followed insider *sells*, not buys.
 
-**Key finding:** The highest 90-day returns in the dataset came after insider *sells* — not buys. Counterintuitive. Compelling.
-
-**→** [Tableau Dashboard](https://lnkd.in/e7UF6aex) &nbsp;|&nbsp; [View Code](https://github.com/Akash21ch/sec-insider-trading-analysis) &nbsp;|&nbsp; [Portfolio](https://lnkd.in/eDyFzEju)
+[Tableau Dashboard](https://lnkd.in/e7UF6aex) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sec-insider-trading-analysis) &nbsp;&nbsp; [Portfolio](https://lnkd.in/eDyFzEju)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 UK House Price Predictor
-**Python · Pandas · Scikit-learn · Random Forest · Streamlit**
+### UK House Price Predictor
+`Python` `Pandas` `Scikit-learn` `Random Forest` `Streamlit`
 
-End-to-end ML project predicting residential property prices across England and Wales using real HM Land Registry transaction data. Deployed as a publicly accessible live app.
+End-to-end ML project predicting residential property prices across England and Wales using real HM Land Registry transaction data. Random Forest model achieving **R² of 64.6%**, deployed as a publicly accessible live web application.
 
-**Results:** R² = **64.6%** · Random Forest model · Live predictions via Streamlit
-
-**→** [Live App](https://uk-house-price-predictor.streamlit.app) &nbsp;|&nbsp; [View Code](https://github.com/Akash21ch/uk-house-price-predictor)
+[Live App](https://uk-house-price-predictor.streamlit.app) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/uk-house-price-predictor)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 S&P 500 Sector Analysis (2000–2026)
-**Python · Pandas · Alpha Vantage API · Tableau**
+### S&P 500 Sector Performance Analysis (2000 to 2026)
+`Python` `Pandas` `Alpha Vantage API` `Tableau`
 
-25 years of performance data across all 11 S&P 500 sectors — from the dot-com crash through to 2026. Built an interactive Tableau dashboard for year-by-year and sector-level exploration.
+25 years of performance data across all 11 S&P 500 sectors, from the dot-com crash through to 2026. Built an interactive Tableau dashboard for exploration by year and sector, revealing how macro cycles reshaped sector leadership over time.
 
-**→** [Tableau Dashboard](https://lnkd.in/e-YGGr2w) &nbsp;|&nbsp; [View Code](https://github.com/Akash21ch/sp500-sector-analysis)
+[Tableau Dashboard](https://lnkd.in/e-YGGr2w) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sp500-sector-analysis)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Akash21ch&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash21ch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akash21ch&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash21ch&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" />
-</div>
-
----
-
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-Always open to conversations about data, financial markets, and automation.
+Always open to conversations about data, financial markets, and building things that run autonomously.
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-chaudhary-371820235)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.ch2122@gmail.com)
 
 </div>
 
----
+<br>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
