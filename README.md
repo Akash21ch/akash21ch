@@ -10,9 +10,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-chaudhary-371820235)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.ch2122@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Akash21ch&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Akash21ch)
 
 </div>
 
@@ -93,7 +90,7 @@ An autonomous trading system that identifies and mirrors high-performing arbitra
 
 Analysed **3,031 trades** by CEOs and CFOs across 50 US companies from 2023 to 2026, benchmarked against the S&P 500 to control for broader market conditions. The standout finding: the highest 90-day returns in the dataset followed insider *sells*, not buys.
 
-[Tableau Dashboard](https://lnkd.in/e7UF6aex) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sec-insider-trading-analysis) &nbsp;&nbsp; [Portfolio](https://lnkd.in/eDyFzEju)
+[Tableau Dashboard](https://lnkd.in/e7UF6aex) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sec-insider-tracker) &nbsp;&nbsp; [Live Tracker](https://lnkd.in/eDyFzEju)
 
 </td>
 </tr>
