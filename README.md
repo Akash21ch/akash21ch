@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-chaudhary-371820235)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.ch2122@gmail.com)
-[![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://uk-house-price-predictor.streamlit.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Akash21ch&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Akash21ch)
 
 </div>
@@ -116,7 +115,7 @@ End-to-end ML project predicting residential property prices across England and 
 
 25 years of performance data across all 11 S&P 500 sectors, from the dot-com crash through to 2026. Built an interactive Tableau dashboard for exploration by year and sector, revealing how macro cycles reshaped sector leadership over time.
 
-[Tableau Dashboard](https://lnkd.in/e-YGGr2w) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sp500-sector-analysis)
+[Tableau Dashboard](https://lnkd.in/e-YGGr2w) &nbsp;&nbsp; [View Code](https://github.com/Akash21ch/sp500-sector-performance-analysis)
 
 </td>
 </tr>
